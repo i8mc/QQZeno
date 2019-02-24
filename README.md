@@ -13,3 +13,5 @@ QQ Zeno 自动发表系统
 2. Jre x32位环境
 3. Win 2003以上运行环境
 4. VC 2010 环境
+5. RPD 进程守护程序
+6. ChromeDriver
